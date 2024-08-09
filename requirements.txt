@@ -1,0 +1,8 @@
+streamlit 
+Pillow 
+torch==2.4.0
+transformers==4.44.0
+torchvision 
+matplotlib
+transformers
+joblib
