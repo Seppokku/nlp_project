@@ -1,0 +1,7 @@
+streamlit 
+Pillow 
+torch 
+torchvision 
+matplotlib
+transformers
+joblib
