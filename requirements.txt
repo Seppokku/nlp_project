@@ -7,4 +7,3 @@ matplotlib
 transformers
 joblib
 pymorphy3
-emoji 
